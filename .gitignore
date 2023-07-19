@@ -2,7 +2,6 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/main/Unity.gitignore
 #
-/LevelUpGameJam\Library/
 /[L]ibrary/
 /[Ll]ibrary/
 /[Tt]emp/
